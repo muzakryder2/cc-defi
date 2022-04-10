@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cc-defi/static/css/main.d567d73c.css",
+    "main.js": "/cc-defi/static/js/main.783c6775.js",
+    "static/media/video.mp4": "/cc-defi/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/terminal.png": "/cc-defi/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/cc-defi/index.html",
+    "main.d567d73c.css.map": "/cc-defi/static/css/main.d567d73c.css.map",
+    "main.783c6775.js.map": "/cc-defi/static/js/main.783c6775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d567d73c.css",
+    "static/js/main.783c6775.js"
+  ]
+}
